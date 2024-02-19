@@ -1,6 +1,6 @@
 # Passo 1
 
-Primeiro baixe esse arquivo [aqui](https://store8.gofile.io/download/0b8527aa-3019-42aa-960b-9d0e28dbf9d3/1.20.1.zip)
+Primeiro baixe esse arquivo [aqui](https://drive.google.com/file/d/1R1P6GMSxo3JCnXQBfGQyMxZ4CkyPcPPs/view?usp=sharing)
 
 # Segundo passo
 
