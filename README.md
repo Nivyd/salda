@@ -37,6 +37,10 @@ E coloque por volta de 4-6 Gigabytes de RAM
 
 Pronto! apenas dar 2 cliques no icone de terra com o nome 1.20.1, entrar no servidor com o ip fornecido e jogar.
 
+# IMPORTANTE
+
+Se ao abrir o jogo der um erro de java, baixe o java 17 [aqui](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe)
+
 
 
 
