@@ -1,6 +1,6 @@
 # Passo 1
 
-Primeiro baixe esse arquivo [aqui](https://www.mediafire.com/file/5jxdli94xdwgpsb/1.20.1.zip/file)
+Primeiro baixe esse arquivo [aqui](https://store8.gofile.io/download/0b8527aa-3019-42aa-960b-9d0e28dbf9d3/1.20.1.zip)
 
 # Segundo passo
 
@@ -35,8 +35,7 @@ E coloque por volta de 4-6 Gigabytes de RAM
 
 ![image](https://github.com/Nivyd/salda/assets/86750924/eff35cde-8442-4201-b2d9-9e8efe79d7da)
 
-Pronto! apenas dar 2 cliques no icone ![image](https://github.com/Nivyd/salda/assets/86750924/062d9e62-caa3-4d81-8a40-03da5fe04fe3)
- entrar no servidor com o ip fornecido e jogar.
+Pronto! apenas dar 2 cliques no icone de terra com o nome 1.20.1, entrar no servidor com o ip fornecido e jogar.
 
 
 
